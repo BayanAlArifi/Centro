@@ -1,5 +1,6 @@
-# Centro - Find the best meeting point
-![Centro logo](https://github.com/dimosr7/Centro/blob/master/src/main/webapp/img/logo.png?raw=true)
+<p align="center">
+  <img width="460" align="center" src="https://github.com/dimosr7/Centro/blob/master/src/main/webapp/img/logo.png?raw=true">
+</p>
 
 Centro is a web-based application, used for getting suggestions about meeting places given several starting points and additional constraints.
 
