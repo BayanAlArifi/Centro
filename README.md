@@ -1,5 +1,6 @@
-![Centro logo](https://github.com/dimosr7/Centro/blob/master/src/main/webapp/img/logo.png?raw=true)
-<img src="https://github.com/dimosr7/Centro/blob/master/src/main/webapp/img/logo.png?raw=true" width="200">
+<p align="center">
+	<img src="https://github.com/dimosr7/Centro/blob/master/src/main/webapp/img/logo.png?raw=true" width="200">
+</p>
 
 # Centro
 Location and web-based recommendation application that helps a group of people find the perfect meeting place by suggesting the one closest to all of their locations, satisfying different constraints (e.g. close to a park), and their preferred means of transportation.
