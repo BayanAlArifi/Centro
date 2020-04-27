@@ -1,11 +1,7 @@
-# Centro
-Location and web-based recommendation application that helps a group of people find the perfect meeting place by suggesting the one closest to all of their locations, satisfying different constraints (e.g. close to a park), and their preferred means of transportation.
-
-# Centro - Find the best meeting point
 ![Centro logo](https://github.com/dimosr7/Centro/blob/master/src/main/webapp/img/logo.png?raw=true)
 
-Centro is a web-based application, used for getting suggestions about meeting places given several starting points and additional constraints.
-
+# Centro
+Location and web-based recommendation application that helps a group of people find the perfect meeting place by suggesting the one closest to all of their locations, satisfying different constraints (e.g. close to a park), and their preferred means of transportation.
 
 ## Requirements
 
