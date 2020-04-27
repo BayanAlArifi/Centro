@@ -83,5 +83,5 @@ In order for Centro to be functional after deployed, define this API key in the 
 
 Analytics are by default disabled in Centro. In order to enable them, edit the file `ga.js` in folder `src/main/webapp/resources/analytics`, by changing the value of the global variable ANALYTICS_ENABLED and adjusting the rest properties of the analytics account.
 
--------------------------------
-[Centro Manual](https://github.com/dimosr7/Centro/blob/master/Manual.pdf)
+## Manual
+[Centro Manual](https://github.com/BayanAlArifi/Centro/blob/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.9.10.4/Manual.pdf)
